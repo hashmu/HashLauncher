@@ -1,0 +1,2 @@
+﻿Explorer,"explorer.exe"
+Notepad,"notepad.exe"
